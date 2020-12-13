@@ -1,0 +1,7 @@
+Instruction Regarding Database:-
+   1. Create database demo;
+   2. use demo;
+   3. select * from employee;
+   4. Insert into employees values(2,'Pallavi','kale','pallavi@gmail.com');
+   5. Delete from employees where id=2;
+   6. update employees set last_name='zade' where id=2;
